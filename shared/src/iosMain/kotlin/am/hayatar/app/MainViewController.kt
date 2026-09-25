@@ -1,4 +1,4 @@
-package com.example.hayatar
+package am.hayatar.app
 
 import androidx.compose.ui.window.ComposeUIViewController
 

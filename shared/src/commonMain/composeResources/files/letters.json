@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "dialect": "eastern",
+  "letters": [
+    { "id": "ayb", "upper": "Ա", "lower": "ա", "name": "այբ", "roman": "a",  "order": 1, "exampleWordId": "aravot" },
+    { "id": "ben", "upper": "Բ", "lower": "բ", "name": "բեն", "roman": "b",  "order": 2, "exampleWordId": "bari" },
+    { "id": "gim", "upper": "Գ", "lower": "գ", "name": "գիմ", "roman": "g",  "order": 3, "exampleWordId": "գիրք" },
+    { "id": "da",  "upper": "Դ", "lower": "դ", "name": "դա",  "roman": "d",  "order": 4, "exampleWordId": "dproc" },
+    { "id": "ech", "upper": "Ե", "lower": "ե", "name": "եչ",  "roman": "ye", "order": 5, "exampleWordId": "yerkir" }
+  ]
+}

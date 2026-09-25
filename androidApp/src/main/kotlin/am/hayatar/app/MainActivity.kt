@@ -1,4 +1,4 @@
-package com.example.hayatar
+package am.hayatar.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
